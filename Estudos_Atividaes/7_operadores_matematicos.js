@@ -1,0 +1,10 @@
+//Tipos de Operadores
+
++  ADIÇÃO
+-  SUBTRAÇÃO
+*  MULTIPLICAÇÃO
+** EXPONENCIAL
+/  DIVISÃO
+%  MÓDULO
+++ INCREMENTAR
+-- DECREMENTAR
