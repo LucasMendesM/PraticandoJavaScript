@@ -4,7 +4,7 @@
     console.log("Sentenca 03 Deste Bloco")
 }
 
-//Tudo entre {} são os blocos.
+//Tudo entre {} forma um bloco.
 
 {
     console.log("Sentenca 01 Deste Bloco")
