@@ -18,7 +18,7 @@ Tipos de cases (Nomeação de Variáveis)
 - Camel Case : nomeDeVariavel
 - Snake Case : nome_de_variavel
 - Kebab Case : nome-de-variavel
-- Upper Snake Case : NOME_DE_VARIAVEL (Normalmente utilizada para declarar Constantes)
+- Upper Snake Case : NOME_DE_VARIAVEL (Por Convenção é utilizada para declarar Constantes)
 */
 
 //..............................................................................................
