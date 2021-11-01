@@ -10,3 +10,7 @@ b = troca;
 
 console.log(a)
 console.log(b)
+
+// Uma forma mais moderna de fazer essa troca de valores seria utilizando o código abaixo:
+
+[a, b] = [b, a]
