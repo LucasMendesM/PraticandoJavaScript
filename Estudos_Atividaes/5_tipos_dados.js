@@ -16,3 +16,13 @@ console.log(typeof 43)
 //ARRAYS / VETORES = Lista Iterável de Elementos.
 
 //JavaScript possui Tipagem Dinamica (Variáveis podem mudar de tipo a qualquer momento.)
+
+//.....................................................................................
+
+//Convertendo Tipos:
+
+//Para converter um texto em número inteiro utilizado a função parseInt
+//variável = parseInt (valor [, base]);
+
+//Para converter um texto em número real (float), utilizamos a função parseFloat.
+//variável = parseFloat (valor [, base]);
